@@ -1,7 +1,7 @@
 import './App.css';
 
 const App = () => {
-  return <div>My App</div>
+  return <div className='font-bold'>My App</div>
 }
 
 export default App;
